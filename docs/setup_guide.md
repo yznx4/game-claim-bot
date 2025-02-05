@@ -95,4 +95,4 @@ python src/bot.py --test
 
 > ⚠️ **Warning**: This bot requires access to your gaming accounts. Use at your own risk!
 
-📜 [License](LICENSE) | 🐛 [Report Issues](https://github.com/yznx4/game-claim-bot/issues)
+📜 [License](/LICENSE) | 🐛 [Report Issues](https://github.com/yznx4/game-claim-bot/issues)
