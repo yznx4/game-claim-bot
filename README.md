@@ -1,6 +1,6 @@
 # Game Claim Bot 🕹️
 
-Discord bot to auto-claim free games from Epic/Steam.
+Discord bot to auto-claim free games from Epic Games/Steam.
 And chatBot using gemini
 
 ## Setup
